@@ -19,5 +19,17 @@ public class Selection_statement {
         }else {
             System.out.println("i am in else");
         }
+
+        switch (a){
+            case 1 :
+                System.out.println("case 1");
+                break;
+            case 2:
+                System.out.println("case 2");
+                break;
+            default:
+                System.out.println("i am in default");
+
+        }
     }
 }
