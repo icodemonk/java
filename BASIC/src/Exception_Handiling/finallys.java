@@ -1,4 +1,4 @@
 package Exception_Handiling;
 
-public class throwss {
+public class finallys {
 }
